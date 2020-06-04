@@ -1,0 +1,7 @@
+/.idea
+BibliotecaJuegosFacade.plantuml
+src/src.plantuml
+/out
+src/facade/facade.plantuml
+src/subsistema_juego/subsistema_consola.plantuml
+/BibliotecaJuegosFacade.iml
